@@ -3,6 +3,9 @@
 # Color List App
 # Screen shot 
 ![Image](https://github.com/user-attachments/assets/6e2849ce-4187-47e6-9893-669a5e901b62)
+
+![Image](https://github.com/user-attachments/assets/7dc805d9-6ff6-4de5-b829-4b74fe75449a)
+
 A simple React Native app that displays a list of colors using a `FlatList` component. Each item shows the color name and its hex code.
 
 ## Features
