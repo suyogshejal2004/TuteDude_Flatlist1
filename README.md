@@ -1,7 +1,8 @@
 # TuteDude_Flatlist1
 
 # Color List App
-
+# Screen shot 
+![Image](https://github.com/user-attachments/assets/6e2849ce-4187-47e6-9893-669a5e901b62)
 A simple React Native app that displays a list of colors using a `FlatList` component. Each item shows the color name and its hex code.
 
 ## Features
